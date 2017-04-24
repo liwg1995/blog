@@ -1,0 +1,16 @@
+<!--全局样式
+body,td,th {font-family: 宋体;font-size: 9pt;color: #666666;}
+body{margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;background-color: #FFFFFF;line-height:20px;}
+table{line-height:20px;}
+
+a:link {color: #333333;text-decoration: none;}
+a:visited {text-decoration: none;color: #666666;}
+a:hover {text-decoration: underline;color: #FF0000;}
+a:active {text-decoration: none;color: #999999;}
+
+.wfont {color: #C6C6C6; font-size:12px;}
+a.wf:link {color: #C6C6C6;text-decoration: none;}
+a.wf:visited {text-decoration: none;color: #C6C6C6;}
+a.wf:hover {text-decoration: underline;color: #C6C6C6;}
+a.wf:active {text-decoration: none;color: #C6C6C6;}
+-->
